@@ -15,7 +15,7 @@ This repository contains my work on **satellite image segmentation** to identify
 
 ![Satellite image](Example_tree_segm.png)
 
-I built, trained, and evaluated deep learning models (including **Deep Residual U‑Net**) as part of a collaborative project with **Omdena** and **Spacept**. [Omdena](https://www.omdena.com/projects/ai-prevent-forest-fires)
+I built, trained, and evaluated deep learning models (including **Deep Residual U‑Net**) as part of a collaborative project with **Omdena** and **Spacept**. [Project Site](https://www.omdena.com/projects/ai-prevent-forest-fires)
 
 ---
 
